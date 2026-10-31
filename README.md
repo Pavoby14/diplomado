@@ -49,10 +49,3 @@ python problema5_riego.py
 ## Nota sobre modularidad
 
 Las funciones reciben datos como parámetros, devuelven resultados cuando corresponde y pueden reutilizarse. Los procedimientos (`ajustar_clima`, `generar_alerta`, `evitar_obstaculo`, `ajustar_velocidad`, `planificar_mantenimiento` y `ajustar_produccion`, entre otros) muestran acciones sin que el resto del programa deba repetirlas. La modularidad facilita la lectura, las pruebas y las modificaciones; por sí sola no garantiza que el programa sea más rápido.
-
-## Publicar en GitHub
-
-1. Crear un repositorio nuevo en GitHub, por ejemplo `ejercicios-modularidad-python`.
-2. Subir estos seis archivos a la raíz del repositorio (opción **Add file > Upload files**).
-3. Confirmar los cambios (**Commit changes**).
-4. Copiar el enlace del repositorio y entregarlo al docente.
